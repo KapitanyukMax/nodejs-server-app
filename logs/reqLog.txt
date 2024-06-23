@@ -1,4 +1,26 @@
-20240622	14:17:34	d8bdb7f6-aab0-4e5c-b720-16cf64b48d60	/new-page.html	GET
-20240622	14:47:19	71264a07-3713-413c-82b6-929828201c3e	/new-page.html	GET
-20240622	14:47:19	89a6e945-aaae-40fc-ab95-04f8ecb4b854	/css/style.css	GET
-20240622	14:47:19	af507a16-05c0-420a-80ab-0fca699d1d33	/img/img1.jpg	GET
+20240623	20:08:08	1edc713c-20ec-4fb1-906f-22a31577f6cf	GET	undefined	/new-page.html
+20240623	20:08:09	1d0e7ff3-9cd5-4b73-8878-20cb45015935	GET	undefined	/css/style.css
+20240623	20:08:09	1ea678a6-16f0-4fc6-9982-a52aa7baa323	GET	undefined	/img/img1.jpg
+20240623	20:15:04	95708bc8-11d4-433f-9214-52fd6e268cc1	GET	undefined	/new-page.html
+20240623	20:15:04	1d9f59a4-97ad-4237-9c16-1a049f86a721	GET	undefined	/css/style.css
+20240623	20:15:04	e0203523-945d-4739-ae32-6a78302529b8	GET	undefined	/img/img1.jpg
+20240623	20:15:59	76960b1a-4e6c-4a14-ae00-dc74c49a0750	OPTIONS	https://javascript.info	/
+20240623	20:15:59	f969b123-a91b-4e94-9f7a-fbe81ba01508	GET	https://javascript.info	/
+20240623	20:18:57	41eecee1-6fad-43d9-94f6-f7dd7e7585f7	OPTIONS	https://javascript.info	/
+20240623	20:18:57	b3dbca91-ee88-48c2-bcfa-4fba52a2d0b6	GET	https://javascript.info	/
+20240623	20:24:49	6a17f41f-af81-417e-9631-dd3c1c55c4df	OPTIONS	https://javascript.info	/
+20240623	20:24:49	aa2fdd73-579b-4cf0-a8e6-d9771505b351	GET	https://javascript.info	/
+20240623	20:26:27	292058c5-b164-4406-8f76-53e9575398fa	OPTIONS	https://javascript.info	/
+20240623	20:26:27	da55ab6f-c422-41a1-96bb-49d52412f2d4	GET	https://javascript.info	/
+20240623	20:29:19	6ec1b3f5-983a-4ed8-9414-e913436e3b87	GET	undefined	/new-page.html
+20240623	20:34:45	266b6f9c-25c0-457e-8dc3-bff0e0e8b9a7	GET	undefined	/
+20240623	20:34:46	8b9271f0-7079-44da-8b3c-35d6f8d5eeb7	GET	undefined	/
+20240623	20:35:08	048538e4-0ec9-477e-860a-5d8ee1327f41	GET	undefined	/
+20240623	20:35:08	28a5d94e-9c70-47a3-b138-a08bf3de6d98	GET	undefined	/css/style.css
+20240623	20:37:46	544d6bab-7cf7-461b-9941-04a03ff31ee0	GET	undefined	/
+20240623	20:37:51	72c34183-4b33-41cc-aabb-6d371e2e8699	GET	undefined	/
+20240623	20:37:51	1ec06d6b-3a23-4b85-b590-ee62b968f04f	GET	undefined	/css/style.css
+20240623	20:40:02	68ae4a01-7b6b-4798-9807-336cddf21363	GET	undefined	/dave
+20240623	20:40:02	a4e35f12-c85a-459a-81e5-5735dee43c9d	GET	undefined	/css/style.css
+20240623	20:42:32	0fe68341-9124-428b-bd7f-b5dc81c54515	GET	undefined	/dave
+20240623	20:42:32	f498117d-abf3-430b-94f8-7a907d9e939a	GET	undefined	/css/style.css
